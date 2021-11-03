@@ -30,3 +30,5 @@ third_block = FECoin(second_block.block_hash, [tr5, tr6])
 
 print(third_block.block_data)
 print(third_block.block_hash)
+
+'''dünyanın en iyi yazılımcısı'''
